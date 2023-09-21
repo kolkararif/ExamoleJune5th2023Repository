@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation ProtoType">
+	<test name="testcases">
+		<classes>
+			<class name="com.sgtesting.testsuite.Driverscript"></class>
+		</classes>
+	</test>
+</suite>
